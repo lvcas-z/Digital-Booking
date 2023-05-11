@@ -1,0 +1,74 @@
+.container-1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: end;
+    font-weight: 700;
+    color: #31363f;
+    font-size: 1.2rem;
+}
+
+.container-1 p {
+    margin-bottom: 10px;
+}
+
+.Iniciales {
+        background: white;
+        width: 37px;
+        height: 37px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 20px;
+        margin: 10px 0;
+    }
+
+.iniciales-admin{
+    background-color: #1DBEB4;
+    color: black;
+    border-radius: 50%;
+    width: 37px;
+    height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.user-text{
+    text-transform: capitalize;
+}
+    .P-in{
+        display: flex;
+        gap: 5px;
+    }
+    .P-in i {
+        display: inline;
+    }
+
+    .Nombre-ctm {
+        color: #ffff;
+    }
+
+    @media(max-width:768px){
+        .container-1{
+            background-color: #1DBEB4;
+            width: 100%;
+        }
+    }
+    @media (min-width: 768px) {
+        .container-1 {
+        flex-direction: row;
+        text-align: start;
+        gap: 0.625rem;
+        color: #1DBEB4;
+        }
+        .Iniciales {
+        background-color: #31363f;
+        color: #ffff;
+        }
+        .Nombre-ctm {
+        color: rgba(0, 0, 0, 0.5);
+        }
+    }
+    
