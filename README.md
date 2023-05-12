@@ -67,10 +67,6 @@ Agendamos con el scrum team un meeting diario para evaluar el trabajo que cada m
 
 📩 : lvcaszelaya@gmail.com
 
-
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
