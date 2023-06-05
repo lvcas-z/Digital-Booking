@@ -12,7 +12,7 @@
     <a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer"><strong>Proyecto Intregrador</strong> de la carrera Certified Tech Developer</a> .
     <br />
     <br />
-    <a href="http://fvb-grupo9-front.s3-website.us-east-2.amazonaws.com/"><strong>Explora el proyecto</strong></a>
+    <a href="http://fvb-grupo9-front.s3-website.us-east-2.amazonaws.com/"><strong>Explora el proyecto</strong> (Deploy Desactivado)</a>
   </p>
 </div>
 
